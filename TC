@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earn with Aarvi - Sure Bets</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+        body {
+            background: linear-gradient(45deg, #ff00ff, #ff8800, #00ffff);
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+        }
+        .logo {
+            font-size: 28px;
+            font-weight: bold;
+            background: linear-gradient(45deg, cyan, yellow);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        h1 {
+            font-size: 24px;
+            background: linear-gradient(45deg, #ff0000, #ff8800);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            font-size: 18px;
+            font-weight: bold;
+            text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+        }
+        .btn {
+            display: block;
+            width: 90%;
+            padding: 12px;
+            margin: 15px auto;
+            border-radius: 30px;
+            font-size: 18px;
+            font-weight: bold;
+            text-transform: uppercase;
+            text-decoration: none;
+            color: white;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+            transition: 0.3s;
+        }
+        .btn-blue {
+            background: linear-gradient(45deg, #00ffff, #0066ff);
+        }
+        .btn-blue:hover {
+            background: linear-gradient(45deg, #0066ff, #00ffff);
+        }
+        .btn-red {
+            background: linear-gradient(45deg, #ff0000, #ff8800);
+        }
+        .btn-red:hover {
+            background: linear-gradient(45deg, #ff8800, #ff0000);
+        }
+        .highlight {
+            font-size: 20px;
+            font-weight: bold;
+            color: yellow;
+            text-shadow: 0 0 10px yellow;
+            margin: 10px 0;
+        }
+        .number {
+            font-size: 50px;
+            font-weight: bold;
+            color: cyan;
+            text-shadow: 0 0 10px cyan;
+        }
+        .money-image {
+            width: 80px;
+            height: auto;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">EARN WITH AARVI</div>
+        <h1>JOIN FOR SURE NUMBER BETS</h1>
+        <p class="subtitle">COVER YOUR LOSSES HERE!!</p>
+        <img src="dollars.jpg" class="money-image" alt="Money">
+        <a href="https://telegram.me/+TwAFjnraz1tlZTFl" class="btn btn-blue">Join Our Free Telegram</a>
+        <p class="highlight">GET SURE BETS & WIN DAILY</p>
+        <p class="number">100% WIN</p>
+    
+        <a href="https://telegram.me/+TwAFjnraz1tlZTFl" class="btn btn-red">Join Our Free Telegram</a>
+        <p class="highlight">MAKE EASY MONEY DAILY 💸💰</p>
+        <p class="highlight">WIN BIG - EARN MORE - LIVE RICH 🤑</p>
+    </div>
+</body>
+</html>
